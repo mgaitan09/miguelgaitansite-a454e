@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2341f02d-b731-47c1-906d-c694f87c0e13/deploy-status)](https://app.netlify.com/sites/miguelgaitan/deploys)
+
+
 # ✨ miguelgaitan_site ✨
 
 <img src="https://themes.stackbit.com/images/fresh-demo-1024x768.png" width="600">
